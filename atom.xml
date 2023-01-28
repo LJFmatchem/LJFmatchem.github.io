@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-28T14:45:36.544Z</updated>
+  <updated>2023-01-28T15:03:24.749Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2023/01/28/overview/"/>
     <id>http://example.com/2023/01/28/overview/</id>
     <published>2023-01-28T13:41:54.000Z</published>
-    <updated>2023-01-28T14:45:36.544Z</updated>
+    <updated>2023-01-28T15:03:24.749Z</updated>
     
     <content type="html"><![CDATA[<h1 id="thermodynamics-of-reversible-batteries">Thermodynamics of reversible batteries</h1><h2 id="basics-of-thermodynamics-of-electrochemistry">Basics of thermodynamics of electrochemistry</h2><h3 id="faradays-law">Faraday's Law</h3><p>During electrolysis, the amount of substance precipitated on the electrode is proportional to the excess charge. <span class="math display">\[\begin{align}&amp;Q=nzF\\&amp;Q_t=\sum_i n_iz_iF+Q_{DL}\end{align}\]</span> Where the faraday constant is <span class="math display">\[F=\left(6.023\times10^{23} electrons/mol\right) \times\left(1.602\times10^{-19}C/electrons\right)=96487C/mol\approx96500C/mol\]</span> The equaiton (2) represent the faraday law applied in a more sepecific condition of electrochemial process. The first term <span class="math inline">\(\sum_i n_iz_iF\)</span> is sum of the excess charge of parallel electrochemical reactions. The second term <span class="math inline">\(Q_{DL}\)</span> relate to the charging current.</p><h3 id="the-zeroth-law-of-thermodynamics">The zeroth law of thermodynamics</h3><p>Several phases/systems in contact with each other are in thermal equilibrium condition: all strength properties (temperature, pressure, chemical potential, electrochemical potential) of each phase/system are equal</p>]]></content>
     
