@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-01-28T14:29:11.266Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>overview</title>
+    <link href="http://example.com/2023/01/28/overview/"/>
+    <id>http://example.com/2023/01/28/overview/</id>
+    <published>2023-01-28T13:41:54.000Z</published>
+    <updated>2023-01-28T14:29:11.266Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Thermodynamics-of-reversible-batteries"><a href="#Thermodynamics-of-reversible-batteries" class="headerlink" title="Thermodynamics of reversible batteries"></a>Thermodynamics of reversible batteries</h1><h2 id="Basics-of-thermodynamics-of-electrochemistry"><a href="#Basics-of-thermodynamics-of-electrochemistry" class="headerlink" title="Basics of thermodynamics of electrochemistry"></a>Basics of thermodynamics of electrochemistry</h2><h3 id="Faraday’s-Law"><a href="#Faraday’s-Law" class="headerlink" title="Faraday’s Law"></a>Faraday’s Law</h3><p>During electrolysis, the amount of substance precipitated on the electrode is proportional to the excess charge.<br>$$<br>\begin{align}<br>&amp;Q&#x3D;nzF\<br>&amp;Q_t&#x3D;\sum_i n_iz_iF+Q_{DL}<br>\end{align}<br>$$<br>Where the faraday constant is<br>$$<br>F&#x3D;\left(6.023\times10^{23} electrons&#x2F;mol\right) \times\left(1.602\times10^{-19}C&#x2F;electrons\right)&#x3D;96487C&#x2F;mol<br>\approx96500C&#x2F;mol<br>$$<br>The equaiton (2) represent the faraday law applied in a more sepecific condition of electrochemial process. The first term  $\sum_i n_iz_iF$  is sum of the excess charge of parallel electrochemical reactions. The second term $Q_{DL}$ relate to the charging current.  </p><h3 id="The-zeroth-law-of-thermodynamics"><a href="#The-zeroth-law-of-thermodynamics" class="headerlink" title="The zeroth law of thermodynamics"></a>The zeroth law of thermodynamics</h3><p>Several phases&#x2F;systems in contact with each other are in thermal equilibrium condition: all strength properties (temperature, pressure, chemical potential, electrochemical potential) of each phase&#x2F;system are equal</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Thermodynamics-of-reversible-batteries&quot;&gt;&lt;a href=&quot;#Thermodynamics-of-reversible-batteries&quot; class=&quot;headerlink&quot; title=&quot;Thermodynamics o</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
